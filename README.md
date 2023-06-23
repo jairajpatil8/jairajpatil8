@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jairajpatil8
 - 👀 I’m interested in Cloud computing, Machine learning, Data mining.
 - 🌱 I’m currently learning Big Data Science.
+- 📸 More about be @ https://jairajpatil8.github.io/portfolio/
 - 📫 How to reach me jairajpatil44@gmail.com
 
 <!---
